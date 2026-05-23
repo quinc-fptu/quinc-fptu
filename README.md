@@ -1,7 +1,7 @@
 # 👋 Nguyen Cao Qui (QuiNC)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/tech_profile_banner.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80'"/>
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/quinc_dynamic_bg.svg" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
   
   <p align="center">
     <strong>Bridging the Discipline of Martial Arts with the Logic of Software Engineering.</strong>
@@ -19,10 +19,6 @@
 </div>
 
 ## 🌌 The Core Mindset (Tư Duy Cốt Lõi)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vovinam_badge.svg" alt="QuiNC Vovinam Badge" width="100%" />
-</div>
 
 <details open>
 <summary><strong>🇺🇸 English Version</strong></summary>
@@ -50,9 +46,7 @@ Hơn cả việc gõ phím viết code, tôi tin vào việc kiến tạo sản 
 
 ## 🎨 My Philosophy: "Vibe Code"
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vibe_code_quote.svg" alt="QuiNC Vibe Code Quote" width="100%" />
-</div>
+> *"Code is not just logic; it is a craft."*
 
 I believe code should have a soul. To me, a great software engineer doesn't just write instructions for a machine — they write clear, readable, and elegant stories that other developers can easily read and extend. Combining traditional backend logic with the power of modern AI workflows allows me to focus less on syntax boilerplate and more on high-level architecture, design aesthetics, and solving real human problems.
 

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 330" width="100%" height="330">
+  <defs>
+    <!-- Liquid Distort Filter -->
+    <filter id="liquid-filter" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012 0.008" numOctaves="2" result="noise">
+        <animate attributeName="baseFrequency" dur="25s" values="0.012 0.008;0.008 0.015;0.012 0.008" repeatCount="indefinite" />
+      </feTurbulence>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="40" xChannelSelector="R" yChannelSelector="G" result="displace" />
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grain Noise Filter -->
+    <filter id="grain-filter" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="3" result="noise" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" />
+    </filter>
+
+    <!-- Gradients -->
+    <linearGradient id="cyber-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f5ff" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#0099ff" />
+    </linearGradient>
+
+    <linearGradient id="glass-edge" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255, 255, 255, 0.25)" />
+      <stop offset="40%" stop-color="rgba(255, 255, 255, 0.03)" />
+      <stop offset="100%" stop-color="rgba(168, 85, 247, 0.25)" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&amp;display=swap');
+    
+    .bg {
+      fill: #050505;
+    }
+    
+    .neon-glow {
+      filter: url(#liquid-filter);
+    }
+    
+    .title-text {
+      font-family: 'Outfit', -apple-system, sans-serif;
+      font-weight: 900;
+      font-size: 56px;
+      fill: #ffffff;
+      letter-spacing: -2px;
+      text-shadow: 0 0 10px rgba(0, 245, 255, 0.5), 0 0 20px rgba(168, 85, 247, 0.3);
+    }
+
+    .sub-text {
+      font-family: 'Outfit', -apple-system, sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #8c9099;
+      letter-spacing: 2px;
+    }
+
+    .glass-box {
+      fill: rgba(255, 255, 255, 0.02);
+      stroke: url(#glass-edge);
+      stroke-width: 1px;
+      filter: drop-shadow(0 20px 30px rgba(0,0,0,0.7));
+    }
+  </style>
+
+  <!-- 1. Canvas Base Background -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- 2. Neon Liquid Glowing Blobs (SVG Filters + SMIL) -->
+  <g class="neon-glow" opacity="0.65">
+    <!-- Blue Blob -->
+    <path fill="#00f5ff" d="M150 50 C250 80, 200 200, 100 180 C50 150, 80 80, 150 50 Z">
+      <animate attributeName="d" dur="18s" repeatCount="indefinite"
+        values="M150 50 C250 80, 200 200, 100 180 C50 150, 80 80, 150 50 Z;
+                M180 80 C220 120, 250 180, 120 200 C80 170, 60 120, 180 80 Z;
+                M150 50 C250 80, 200 200, 100 180 C50 150, 80 80, 150 50 Z" />
+    </path>
+    <!-- Purple Blob -->
+    <path fill="#a855f7" d="M800 280 C900 200, 850 100, 750 120 C680 140, 720 240, 800 280 Z">
+      <animate attributeName="d" dur="22s" repeatCount="indefinite"
+        values="M800 280 C900 200, 850 100, 750 120 C680 140, 720 240, 800 280 Z;
+                M760 250 C860 180, 820 80, 700 140 C650 180, 700 220, 760 250 Z;
+                M800 280 C900 200, 850 100, 750 120 C680 140, 720 240, 800 280 Z" />
+    </path>
+    <!-- Cyan/Blue Center Blob -->
+    <circle cx="500" cy="165" r="90" fill="#0099ff">
+      <animate attributeName="cx" dur="30s" values="500;540;460;500" repeatCount="indefinite" />
+      <animate attributeName="cy" dur="25s" values="165;130;200;165" repeatCount="indefinite" />
+      <animate attributeName="r" dur="20s" values="90;110;80;90" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- 3. Grain Noise Layer -->
+  <rect width="100%" height="100%" filter="url(#grain-filter)" pointer-events="none" />
+
+  <!-- 4. Kinetic Glass Card & Text Content -->
+  <g transform="translate(250, 50)">
+    <!-- Simulated Blurred Backdrop and Card border -->
+    <rect width="500" height="230" rx="16" ry="16" class="glass-box" />
+    
+    <!-- Title Text -->
+    <text x="250" y="115" text-anchor="middle" class="title-text">QuiNC</text>
+    
+    <!-- Subtitle Text -->
+    <text x="250" y="170" text-anchor="middle" class="sub-text">DISCIPLINE // LOGIC // VIBE</text>
+
+    <!-- Glass Highlights / Light Polarizations -->
+    <path d="M 16 1 L 484 1" stroke="rgba(255,255,255,0.4)" stroke-width="1.5" stroke-linecap="round" />
+    <path d="M 1 16 L 1 214" stroke="rgba(255,255,255,0.15)" stroke-width="1" />
+  </g>
+</svg>
