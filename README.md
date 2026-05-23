@@ -38,7 +38,7 @@
 <p align="center"><samp>[ MODULE: VIBE_PHILOSOPHY // ACTIVE ]</samp></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_philosophy_card.svg" alt="QuiNC Vibe Code Philosophy" width="100%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_philosophy_v2.svg" alt="QuiNC Vibe Code Philosophy" width="100%" />
 </div>
 
 <br/>

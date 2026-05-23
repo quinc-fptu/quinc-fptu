@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 150" width="100%" height="150">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    
+    .card-bg { fill: #050508; }
+    .border { stroke: #a855f7; stroke-width: 1.5; fill: none; opacity: 0.8; }
+    .title-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 13px;
+      font-weight: bold;
+      fill: #a855f7;
+      letter-spacing: 2px;
+      text-shadow: 0 0 6px rgba(168, 85, 247, 0.6);
+    }
+    .quote-mark {
+      font-family: Georgia, serif;
+      font-size: 40px;
+      fill: rgba(0, 245, 255, 0.12);
+      font-weight: bold;
+    }
+    .quote-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 12.5px;
+      font-weight: bold;
+      fill: #00f5ff;
+      letter-spacing: 0.5px;
+      text-shadow: 0 0 4px rgba(0, 245, 255, 0.5);
+    }
+    .body-text {
+      font-family: 'Share Tech Mono', monospace;
+      font-size: 10px;
+      fill: #8c9099;
+      letter-spacing: 0.3px;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="150" class="card-bg" />
+
+  <!-- Outer frames -->
+  <rect x="5" y="5" width="790" height="140" rx="6" stroke="rgba(0, 245, 255, 0.15)" stroke-width="1" fill="none" />
+  <path d="M 15 5 L 5 5 L 5 15" class="border" />
+  <path d="M 785 5 L 795 5 L 795 15" class="border" />
+  <path d="M 5 135 L 5 145 L 15 145" class="border" />
+  <path d="M 795 135 L 795 145 L 785 145" class="border" />
+
+  <!-- Title -->
+  <text x="400" y="28" text-anchor="middle" class="title-text">🎨 VIBE CODE // NGHỆ THUẬT VẼ CODE BẰNG TƯ DUY</text>
+
+  <!-- Quote marks background -->
+  <text x="60" y="75" class="quote-mark">“</text>
+  <text x="720" y="120" class="quote-mark">”</text>
+
+  <!-- Quote text -->
+  <text x="400" y="52" text-anchor="middle" class="quote-text">"I don't just compile instructions. I paint a digital canvas with logic."</text>
+
+  <!-- Body paragraphs -->
+  <text x="400" y="78" text-anchor="middle" class="body-text">To me, backend development is a form of art: code is the paint, and the IDE is the canvas.</text>
+  <text x="400" y="94" text-anchor="middle" class="body-text">Every database query is a calculated stroke, and every architectural layer is designed to flow like water.</text>
+  <text x="400" y="110" text-anchor="middle" class="body-text">Combining .NET performance with modern AI workflows allows me to sculpt clean, high-performance systems</text>
+  <text x="400" y="126" text-anchor="middle" class="body-text">that tell elegant structural stories, blending mathematical rigor with creative design aesthetics.</text>
+</svg>
