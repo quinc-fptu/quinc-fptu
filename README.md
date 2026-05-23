@@ -1,7 +1,7 @@
 # 👋 Nguyen Cao Qui (QuiNC)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/quinc_dynamic_bg.svg" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/BannerGithub.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
   
   <p align="center">
     <strong>Bridging the Discipline of Martial Arts with the Logic of Software Engineering.</strong>
@@ -16,6 +16,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/profile_effects.svg" alt="QuiNC System Status" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vovinam_badge.svg" alt="Vovinam Athlete Badge" width="49%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vibe_code_quote.svg" alt="Vibe Code Philosophy Badge" width="49%" />
 </div>
 
 ## 🌌 The Core Mindset (Tư Duy Cốt Lõi)

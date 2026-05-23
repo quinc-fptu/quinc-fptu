@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <style>
+    .card {
+      fill: #09090f;
+      stroke: #a855f7;
+      stroke-width: 1.5;
+      filter: drop-shadow(0 4px 10px rgba(168, 85, 247, 0.15));
+    }
+    .main-title {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 800;
+      font-size: 15px;
+      fill: #a855f7;
+      letter-spacing: 2px;
+      text-shadow: 0 0 5px rgba(168, 85, 247, 0.5);
+    }
+    .subtitle {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      fill: #ffffff;
+    }
+    .desc {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 11px;
+      fill: #8c9099;
+    }
+    .pulsing-node {
+      fill: #a855f7;
+      animation: pulse 3s infinite alternate;
+    }
+    @keyframes pulse {
+      0% { fill-opacity: 0.3; }
+      100% { fill-opacity: 1; }
+    }
+  </style>
+  
+  <rect width="398" height="118" x="1" y="1" rx="8" class="card" />
+  
+  <!-- Cyberpunk Vibe Icon (Abstract terminal prompt) -->
+  <g transform="translate(30, 40)">
+    <rect width="30" height="30" rx="4" fill="none" stroke="#a855f7" stroke-width="1.5" />
+    <path d="M 8 10 L 15 15 L 8 20" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" />
+    <line x1="17" y1="20" x2="24" y2="20" stroke="#00f5ff" stroke-width="2" />
+  </g>
+
+  <!-- Text Details -->
+  <text x="80" y="40" class="main-title">💡 VIBE CODE PHILOSOPHY</text>
+  <text x="80" y="62" class="subtitle">Craftsmanship &amp; AI Agility</text>
+  <text x="80" y="82" class="desc">Code is a craft: clean logic, high readability.</text>
+  <text x="80" y="96" class="desc">Leveraging AI to focus on high-level architecture.</text>
+</svg>
