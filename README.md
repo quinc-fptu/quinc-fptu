@@ -1,7 +1,7 @@
 # ⚡ QUI.CORE // NGUYEN CAO QUI
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/myin4graphic/main/assets/img/hero-banner-placeholder.png" alt="QUI.CORE Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80'"/>
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/tech_profile_banner.png" alt="QUI.CORE Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" onerror="this.src='https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=80'"/>
   
   <p align="center">
     <strong>Junior Web Developer & .NET Specialist | AI-Driven Software Engineer</strong>
