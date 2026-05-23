@@ -6,12 +6,6 @@
   <h1><samp>NGUYEN CAO QUI (QuiNC)</samp></h1>
   <p><strong><code>.NET Software Engineer // Vovinam City-Level Medalist // AI-Augmented Backend Developer</code></strong></p>
 
-  <p>
-    <a href="https://linkedin.com/in/nguyen-cao-qui"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:quinc.ce190986@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://github.com/quinc-fptu"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-
   <hr style="border: 0.5px solid rgba(0, 245, 255, 0.15); margin: 20px 0;" />
 
   <!-- Main Cyber Spec HUD -->
@@ -34,24 +28,21 @@
 </div>
 
 <br/>
-
-## 🌌 The Core Mindset // Tư Duy Cốt Lõi
+<p align="center"><samp>[ MODULE: CORE_MINDSET // ACTIVE ]</samp></p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_mindset.svg" alt="QuiNC Core Mindset" width="100%" />
 </div>
 
 <br/>
-
-## 🎨 My Philosophy // Triết Lý Hoạt Động
+<p align="center"><samp>[ MODULE: VIBE_PHILOSOPHY // ACTIVE ]</samp></p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_philosophy_card.svg" alt="QuiNC Vibe Code Philosophy" width="100%" />
 </div>
 
 <br/>
-
-## 📫 Connect & Network Directory // Thư Mục Liên Kết
+<p align="center"><samp>[ PORTAL: CONNECT_DIRECTORY // ONLINE ]</samp></p>
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
