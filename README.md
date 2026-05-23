@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/BannerGithub.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
   
   <p align="center">
-    <strong>Bridging the Discipline of Martial Arts with the Logic of Software Engineering.</strong>
+    <strong>I don't just build systems. I design digital architectures, combining the iron-willed discipline of a Vovinam athlete with the overclocked logic of an AI-augmented .NET Engineer.</strong>
   </p>
 
   <p align="center">
@@ -12,6 +12,10 @@
     <a href="mailto:quinc.ce190986@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://github.com/quinc-fptu"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/system_hud.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
 </div>
 
 <div align="center">
@@ -31,7 +35,7 @@
 <summary><strong>🇺🇸 English Version</strong></summary>
 <br/>
 
-Rather than just writing code, I believe in building with purpose, patience, and precision. My approach to software engineering is deeply inspired by my journey in martial arts:
+I don't just write code; I craft systems that bend to my logic. I bridge the discipline of a Vovinam martial artist with the agility of an AI-augmented backend engineer. Here is my core configuration:
 
 *   **🥋 The Vovinam Way:** As a city-level Vovinam medal winner, I’ve learned that mastery is a result of repetition, focus, and grit. In engineering, this translates into the resilience needed to solve complex bugs and the commitment to refine code daily.
 *   **💡 "Cương Nhu Phối Triển" (Iron Will, Flexible Action):** The philosophy of martial arts guides me to build backend architectures that are strong and secure (Cương - Iron Will) yet adaptable and scalable to future changes (Nhu - Flexible Action).
@@ -42,7 +46,7 @@ Rather than just writing code, I believe in building with purpose, patience, and
 <summary><strong>🇻🇳 Bản Tiếng Việt</strong></summary>
 <br/>
 
-Hơn cả việc gõ phím viết code, tôi tin vào việc kiến tạo sản phẩm với sự kiên trì, tập trung và độ chính xác cao. Tư duy lập trình của tôi được định hình từ hành trình học tập võ thuật:
+Tôi không chỉ gõ phím viết code; tôi kiến tạo các hệ thống số vận hành theo tư duy của mình. Kết hợp giữa kỷ luật thép của võ học Vovinam và tốc độ vượt trội của một kỹ sư backend ứng dụng AI. Đây là cấu trúc cốt lõi của tôi:
 
 *   **🥋 Tinh thần Võ đạo:** Là một vận động viên từng đạt huy chương Vovinam cấp Thành phố, tôi hiểu rằng sự thuần thục đến từ việc rèn luyện không ngừng nghỉ và sự tập trung cao độ. Trong kỹ thuật phần mềm, điều này giúp tôi kiên trì đương đầu với các lỗi hệ thống phức tạp và duy trì tính nhất quán mỗi ngày.
 *   **💡 Cương Nhu Phối Triển:** Triết lý võ học giúp tôi thiết kế các kiến trúc backend vững chắc, bảo mật (Cương) nhưng vẫn linh hoạt, dễ mở rộng và thích ứng trước những thay đổi (Nhu).
