@@ -88,12 +88,12 @@
     <path d="M 5 5 L -5 5 L -5 135 L 5 135" class="bracket" />
     <path d="M 280 5 L 290 5 L 290 135 L 280 135" class="bracket" />
 
-    <text x="10" y="25" class="neon-text-blue">&gt; SYSTEM_ID: QUI.CORE_v7.2</text>
-    <text x="10" y="45" class="neon-text-blue">&gt; CLASS: SOFTWARE_ENGINEER_ELITE</text>
-    <text x="10" y="65" class="neon-text-blue">&gt; DOMAIN: BACKEND // ARCHITECTURE</text>
-    <text x="10" y="85" class="neon-text-purple">&gt; CODE_PHILOSOPHY: VIBE_CODE_OVERCLOCK</text>
-    <text x="10" y="105" class="neon-text-purple">&gt; DISCIPLINE: VOVINAM_MARTIAL_ARTS</text>
-    <text x="10" y="125" class="neon-text-purple">&gt; HEALTH_STATUS: UNSTOPPABLE_100%</text>
+    <text x="10" y="25" class="neon-text-blue">&gt; SYSTEM: QUI.CORE_v7.2</text>
+    <text x="10" y="45" class="neon-text-blue">&gt; ROLE: .NET ENGINEER</text>
+    <text x="10" y="65" class="neon-text-blue">&gt; STACK: C# // ORACLE</text>
+    <text x="10" y="85" class="neon-text-purple">&gt; PHILOSOPHY: VIBE_CODE</text>
+    <text x="10" y="105" class="neon-text-purple">&gt; DISCIPLINE: VOVINAM</text>
+    <text x="10" y="125" class="neon-text-purple">&gt; STATUS: OVERCLOCKED</text>
   </g>
 
   <!-- Right Section: Graphic Visualizer -->
