@@ -38,85 +38,38 @@
 ## 🌌 The Core Mindset // Tư Duy Cốt Lõi
 
 <div align="center">
-  <table style="width: 100%; border-collapse: collapse; border: 1px solid rgba(0, 245, 255, 0.15);">
-    <thead>
-      <tr style="background-color: rgba(5, 5, 8, 0.8);">
-        <th width="50%" style="padding: 12px; text-align: left; border: 1px solid rgba(0, 245, 255, 0.15);"><samp>🇺🇸 English Version</samp></th>
-        <th width="50%" style="padding: 12px; text-align: left; border: 1px solid rgba(0, 245, 255, 0.15);"><samp>🇻🇳 Bản Tiếng Việt</samp></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>🥋 The Vovinam Way</strong><br/>
-          As a city-level Vovinam medal winner, I’ve learned that mastery is a result of repetition, focus, and grit. In engineering, this translates into the resilience needed to solve complex bugs and the commitment to refine code daily.
-        </td>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>🥋 Tinh thần Võ đạo</strong><br/>
-          Là một vận động viên từng đạt huy chương Vovinam cấp Thành phố, tôi hiểu rằng sự thuần thục đến từ việc rèn luyện không ngừng nghỉ và sự tập trung cao độ. Trong kỹ thuật phần mềm, điều này giúp tôi kiên trì đương đầu với các lỗi hệ thống phức tạp và duy trì tính nhất quán mỗi ngày.
-        </td>
-      </tr>
-      <tr>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>💡 "Cương Nhu Phối Triển"</strong><br/>
-          The philosophy of martial arts guides me to build backend architectures that are strong and secure (<em>Cương</em> - Iron Will) yet adaptable and scalable to future changes (<em>Nhu</em> - Flexible Action).
-        </td>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>💡 Cương Nhu Phối Triển</strong><br/>
-          Triết lý võ học giúp tôi thiết kế các kiến trúc backend vững chắc, bảo mật (<em>Cương</em>) nhưng vẫn linh hoạt, dễ mở rộng và thích ứng trước những thay đổi (<em>Nhu</em>).
-        </td>
-      </tr>
-      <tr>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>🌱 Focus Areas</strong><br/>
-          Software Engineering graduate from FPT University Can Tho and ex-intern at FPT Software. Specializing in backend systems, database performance, and building clean-code solutions.
-        </td>
-        <td valign="top" style="padding: 12px; border: 1px solid rgba(0, 245, 255, 0.15); line-height: 1.6;">
-          <strong>🌱 Lĩnh vực tập trung</strong><br/>
-          Tốt nghiệp Kỹ thuật Phần mềm tại Đại học FPT Cần Thơ, cựu thực tập sinh tại FPT Software. Tập trung phát triển hệ thống backend, tối ưu cơ sở dữ liệu và xây dựng giải pháp mã nguồn sạch (Clean Code).
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_mindset.svg" alt="QuiNC Core Mindset" width="100%" />
 </div>
 
 <br/>
 
-## 🎨 My Philosophy: "Vibe Code"
+## 🎨 My Philosophy // Triết Lý Hoạt Động
 
-<blockquote>
-  <p align="center">
-    <strong><em>"Code is not just logic; it is a craft."</em></strong>
-  </p>
-  <p align="justify" style="line-height: 1.6; color: #8c9099;">
-    I believe code should have a soul. To me, a great software engineer doesn't just write instructions for a machine — they write clear, readable, and elegant stories that other developers can easily read and extend. Combining traditional backend logic with the power of modern AI workflows allows me to focus less on syntax boilerplate and more on high-level architecture, design aesthetics, and solving real human problems.
-  </p>
-</blockquote>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_philosophy_card.svg" alt="QuiNC Vibe Code Philosophy" width="100%" />
+</div>
 
 <br/>
 
-## 📫 Connect & Network Directory
+## 📫 Connect & Network Directory // Thư Mục Liên Kết
 
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
-      <td align="center" style="border: none; padding: 15px 30px;">
+      <td align="center" style="border: none; padding: 10px;">
         <a href="mailto:quinc.ce190986@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-        </a><br/>
-        <code>quinc.ce190986@gmail.com</code>
+          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_email.svg" alt="Email Directory" width="240" />
+        </a>
       </td>
-      <td align="center" style="border: none; padding: 15px 30px;">
+      <td align="center" style="border: none; padding: 10px;">
         <a href="https://linkedin.com/in/nguyen-cao-qui">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-        </a><br/>
-        <code>linkedin.com/in/nguyen-cao-qui</code>
+          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_linkedin.svg" alt="LinkedIn Directory" width="240" />
+        </a>
       </td>
-      <td align="center" style="border: none; padding: 15px 30px;">
+      <td align="center" style="border: none; padding: 10px;">
         <a href="https://gitlab.com/quinc.ce190986">
-          <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-        </a><br/>
-        <code>gitlab.com/quinc.ce190986</code>
+          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_gitlab.svg" alt="GitLab Repository" width="240" />
+        </a>
       </td>
     </tr>
   </table>
