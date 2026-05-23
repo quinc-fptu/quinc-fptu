@@ -14,7 +14,9 @@
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/profile_effects.svg" alt="QuiNC System Status" width="100%" />
+</div>
 
 ## 🌌 The Core Mindset (Tư Duy Cốt Lõi)
 

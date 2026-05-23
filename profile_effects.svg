@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="50">
+  <style>
+    .pulse-dot {
+      fill: #00f5ff;
+      animation: pulse 2s infinite alternate;
+    }
+    .neon-text {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 13px;
+      font-weight: 700;
+      fill: #ffffff;
+      text-shadow: 0 0 5px rgba(0, 245, 255, 0.4), 0 0 10px rgba(168, 85, 247, 0.3);
+      letter-spacing: 0.5px;
+    }
+    .typing-box {
+      overflow: hidden;
+      white-space: nowrap;
+      animation: typing 10s steps(60, end) infinite;
+    }
+    @keyframes pulse {
+      0% {
+        r: 4px;
+        fill-opacity: 0.5;
+        filter: drop-shadow(0 0 2px #00f5ff);
+      }
+      100% {
+        r: 6px;
+        fill-opacity: 1;
+        filter: drop-shadow(0 0 8px #00f5ff);
+      }
+    }
+    @keyframes typing {
+      0%, 10%, 90%, 100% { width: 0; }
+      20%, 80% { width: 560px; }
+    }
+    .glow-line {
+      stroke: url(#neonGradient);
+      stroke-width: 1.5;
+      filter: drop-shadow(0 0 3px rgba(168, 85, 247, 0.5));
+    }
+  </style>
+  <defs>
+    <linearGradient id="neonGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00f5ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pulsing status indicator -->
+  <circle cx="25" cy="25" r="5" class="pulse-dot" />
+  
+  <!-- Status Text Label -->
+  <text x="40" y="29" fill="#999999" font-family="'Segoe UI', sans-serif" font-size="11px" font-weight="800" letter-spacing="1px">SYS_ACTIVE &gt;</text>
+  
+  <!-- Typing text animation -->
+  <svg x="135" y="0" width="560" height="50" class="typing-box">
+    <text x="0" y="29" class="neon-text">DISCIPLINE: VOVINAM // STYLE: CLEAN CODE // MINDSET: CƯƠNG NHU PHỐI TRIỂN</text>
+  </svg>
+
+  <!-- Bottom neon divider line -->
+  <line x1="15" y1="45" x2="785" y2="45" class="glow-line" />
+</svg>
