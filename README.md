@@ -9,10 +9,10 @@
   <hr style="border: 0.5px solid rgba(0, 245, 255, 0.15); margin: 20px 0;" />
 
   <!-- Main Cyber Spec HUD -->
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_specs_hud.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_specs_hud_v2.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
   
   <!-- System Status console line -->
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/profile_effects.svg" alt="QuiNC System Status" width="100%" style="margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/profile_effects_v2.svg" alt="QuiNC System Status" width="100%" style="margin-bottom: 20px;" />
 
   <!-- Side-by-side Bento cards -->
   <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -31,7 +31,7 @@
 <p align="center"><samp>[ MODULE: CORE_MINDSET // ACTIVE ]</samp></p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_mindset.svg" alt="QuiNC Core Mindset" width="100%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_mindset_v2.svg" alt="QuiNC Core Mindset" width="100%" />
 </div>
 
 <br/>

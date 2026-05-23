@@ -96,7 +96,7 @@
       <circle cx="5" cy="5" r="3" class="bullet-dot" />
       <text x="15" y="8" class="section-title">🌱 OPERATIONAL FOCUS</text>
       <text x="15" y="22" class="body-text">FPT University graduate ex-FPT Software backend intern.</text>
-      <text x="15" y="34" class="body-text">Specializing in database performance and clean-code architectures.</text>
+      <text x="15" y="34" class="body-text">Specializing in .NET fullstack, React, Next.js, and Clean Code.</text>
     </g>
   </g>
 
@@ -125,7 +125,7 @@
       <circle cx="5" cy="5" r="3" class="bullet-dot" fill="#a855f7" />
       <text x="15" y="8" class="section-title">🌱 LĨNH VỰC TẬP TRUNG</text>
       <text x="15" y="22" class="body-text">Tốt nghiệp ĐH FPT Cần Thơ, cựu thực tập sinh FPT Software.</text>
-      <text x="15" y="34" class="body-text">Tập trung tối ưu cơ sở dữ liệu và xây dựng Clean Code.</text>
+      <text x="15" y="34" class="body-text">Tập trung .NET Fullstack, React, Next.js và Clean Code.</text>
     </g>
   </g>
 </svg>

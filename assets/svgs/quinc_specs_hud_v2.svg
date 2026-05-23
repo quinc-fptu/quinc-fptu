@@ -130,8 +130,8 @@
 
     <!-- Info fields with little status icons / prefixes -->
     <text x="12" y="25" class="neon-text-blue glitch-text">&gt; SYSTEM: QUI.CORE_v7.2</text>
-    <text x="12" y="45" class="neon-text-blue">&gt; ROLE: .NET ENGINEER</text>
-    <text x="12" y="65" class="neon-text-blue">&gt; STACK: C# // ORACLE // AZURE</text>
+    <text x="12" y="45" class="neon-text-blue">&gt; ROLE: FULLSTACK DEVELOPER</text>
+    <text x="12" y="65" class="neon-text-blue">&gt; STACK: .NET // REACT // NEXT.JS</text>
     <text x="12" y="85" class="neon-text-purple">&gt; PHILOSOPHY: VIBE_CODE</text>
     <text x="12" y="105" class="neon-text-purple">&gt; DISCIPLINE: VOVINAM</text>
     <text x="12" y="125" class="neon-text-purple">&gt; STATUS: ACTIVE // OVERCLOCKED</text>
