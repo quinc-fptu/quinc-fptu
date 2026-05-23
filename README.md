@@ -67,7 +67,9 @@ If you share a passion for clean engineering, martial arts, or building interest
 *   **LinkedIn:** [linkedin.com/in/nguyen-cao-qui](https://linkedin.com/in/nguyen-cao-qui)
 *   **GitLab:** [gitlab.com/quinc.ce190986](https://gitlab.com/quinc.ce190986)
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/system_waves.svg" alt="Vibe Resonance Wave" width="100%" />
+</div>
 
 <div align="center">
   <p><i>"Flow like water, strike like iron. Keep practicing."</i></p>

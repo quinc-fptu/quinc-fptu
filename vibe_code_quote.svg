@@ -4,7 +4,7 @@
       fill: #09090f;
       stroke: #a855f7;
       stroke-width: 1.5;
-      filter: drop-shadow(0 4px 10px rgba(168, 85, 247, 0.15));
+      animation: glowPurple 4s infinite alternate;
     }
     .main-title {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -25,13 +25,18 @@
       font-size: 11px;
       fill: #8c9099;
     }
-    .pulsing-node {
-      fill: #a855f7;
-      animation: pulse 3s infinite alternate;
+    .terminal-cursor {
+      stroke: #00f5ff;
+      stroke-width: 2;
+      animation: blink 0.8s step-end infinite;
     }
-    @keyframes pulse {
-      0% { fill-opacity: 0.3; }
-      100% { fill-opacity: 1; }
+    @keyframes glowPurple {
+      0% { filter: drop-shadow(0 2px 4px rgba(168, 85, 247, 0.1)); }
+      100% { filter: drop-shadow(0 6px 15px rgba(168, 85, 247, 0.25)); }
+    }
+    @keyframes blink {
+      from, to { stroke: transparent }
+      50% { stroke: #00f5ff; }
     }
   </style>
   
@@ -41,7 +46,7 @@
   <g transform="translate(30, 40)">
     <rect width="30" height="30" rx="4" fill="none" stroke="#a855f7" stroke-width="1.5" />
     <path d="M 8 10 L 15 15 L 8 20" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" />
-    <line x1="17" y1="20" x2="24" y2="20" stroke="#00f5ff" stroke-width="2" />
+    <line x1="17" y1="20" x2="24" y2="20" class="terminal-cursor" />
   </g>
 
   <!-- Text Details -->

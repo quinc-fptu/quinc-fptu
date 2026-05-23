@@ -4,7 +4,7 @@
       fill: #09090f;
       stroke: #00f5ff;
       stroke-width: 1.5;
-      filter: drop-shadow(0 4px 10px rgba(0, 245, 255, 0.15));
+      animation: glowCyan 4s infinite alternate;
     }
     .main-title {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -28,6 +28,15 @@
     .badge-icon {
       fill: url(#goldGradient);
       filter: drop-shadow(0 0 4px rgba(255, 215, 0, 0.4));
+      animation: pulseMedal 2.5s infinite alternate;
+    }
+    @keyframes glowCyan {
+      0% { filter: drop-shadow(0 2px 4px rgba(0, 245, 255, 0.1)); }
+      100% { filter: drop-shadow(0 6px 15px rgba(0, 245, 255, 0.25)); }
+    }
+    @keyframes pulseMedal {
+      0% { filter: drop-shadow(0 0 4px rgba(255, 215, 0, 0.4)); }
+      100% { filter: drop-shadow(0 0 10px rgba(255, 215, 0, 0.7)); }
     }
   </style>
   <defs>
