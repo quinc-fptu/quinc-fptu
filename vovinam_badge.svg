@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" height="120">
+  <style>
+    .gold-glow {
+      stroke: #ffd700;
+      stroke-width: 1.5;
+      filter: drop-shadow(0 0 4px rgba(255, 215, 0, 0.6));
+      animation: pulseGold 3s infinite alternate;
+    }
+    .blue-glow {
+      stroke: #1f75fe;
+      stroke-width: 2;
+      filter: drop-shadow(0 0 5px rgba(31, 117, 254, 0.7));
+    }
+    .badge-title {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 15px;
+      font-weight: 800;
+      fill: #ffd700;
+      letter-spacing: 2px;
+      text-shadow: 0 0 6px rgba(255, 215, 0, 0.6);
+    }
+    .badge-sub {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 12px;
+      font-weight: 600;
+      fill: #ffffff;
+      opacity: 0.85;
+      letter-spacing: 1px;
+    }
+    .badge-desc {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 11px;
+      fill: #999999;
+      letter-spacing: 0.5px;
+    }
+    .pulse-ring {
+      fill: none;
+      stroke-width: 1;
+      stroke: #ffd700;
+      animation: ringSpread 3s infinite linear;
+    }
+    @keyframes pulseGold {
+      0% { filter: drop-shadow(0 0 2px rgba(255, 215, 0, 0.4)); }
+      100% { filter: drop-shadow(0 0 8px rgba(255, 215, 0, 0.8)); }
+    }
+    @keyframes ringSpread {
+      0% {
+        r: 30px;
+        opacity: 0.8;
+      }
+      100% {
+        r: 45px;
+        opacity: 0;
+        stroke-width: 0.5;
+      }
+    }
+  </style>
+
+  <!-- Background card -->
+  <rect x="5" y="5" width="790" height="110" rx="10" fill="#0c0d12" stroke="#1f75fe" stroke-width="1" />
+
+  <!-- Left Side: Circular Badge Graphic -->
+  <g transform="translate(70, 60)">
+    <circle cx="0" cy="0" r="30" fill="#05060a" class="blue-glow" />
+    <circle cx="0" cy="0" r="30" class="gold-glow" fill="none" />
+    <circle cx="0" cy="0" r="30" class="pulse-ring" />
+    
+    <!-- Yin-Yang style Vovinam inspired symbol -->
+    <path d="M 0,-20 A 10,10 0 0 0 0,0 A 10,10 0 0 1 0,20 A 20,20 0 0 0 0,-20 Z" fill="#1f75fe" filter="drop-shadow(0 0 3px #1f75fe)"/>
+    <path d="M 0,-20 A 10,10 0 0 0 0,0 A 10,10 0 0 1 0,20 A 20,20 0 0 1 0,-20 Z" fill="#ffd700" filter="drop-shadow(0 0 3px #ffd700)"/>
+    <circle cx="0" cy="0" r="3" fill="#ffffff" />
+  </g>
+
+  <!-- Right Side: Details text -->
+  <g transform="translate(140, 30)">
+    <text x="0" y="15" class="badge-title">VOVINAM MARTIAL ARTIST</text>
+    <text x="0" y="38" class="badge-sub">🥇 City-Level Medalist // Tinh Thần Cương Nhu Phối Triển</text>
+    <text x="0" y="58" class="badge-desc">Resilience, deep discipline, and focus in solving complex backend issues.</text>
+    <text x="0" y="72" class="badge-desc">Sự bền bỉ, kiên trì của võ đạo rèn luyện sự tập trung cao độ trong lập trình.</text>
+  </g>
+</svg>

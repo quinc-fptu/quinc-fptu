@@ -20,6 +20,10 @@
 
 ## 🌌 The Core Mindset (Tư Duy Cốt Lõi)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vovinam_badge.svg" alt="QuiNC Vovinam Badge" width="100%" />
+</div>
+
 <details open>
 <summary><strong>🇺🇸 English Version</strong></summary>
 <br/>
@@ -46,7 +50,9 @@ Hơn cả việc gõ phím viết code, tôi tin vào việc kiến tạo sản 
 
 ## 🎨 My Philosophy: "Vibe Code"
 
-> *"Code is not just logic; it is a craft."*
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vibe_code_quote.svg" alt="QuiNC Vibe Code Quote" width="100%" />
+</div>
 
 I believe code should have a soul. To me, a great software engineer doesn't just write instructions for a machine — they write clear, readable, and elegant stories that other developers can easily read and extend. Combining traditional backend logic with the power of modern AI workflows allows me to focus less on syntax boilerplate and more on high-level architecture, design aesthetics, and solving real human problems.
 
