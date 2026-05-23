@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/system_hud_v2.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/system_hud_v2.svg?v=3" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
 </div>
 
 <div align="center">
