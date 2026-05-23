@@ -42,11 +42,20 @@
   
   <rect width="398" height="118" x="1" y="1" rx="8" class="card" />
   
-  <!-- Cyberpunk Vibe Icon (Abstract terminal prompt) -->
-  <g transform="translate(30, 40)">
-    <rect width="30" height="30" rx="4" fill="none" stroke="#a855f7" stroke-width="1.5" />
-    <path d="M 8 10 L 15 15 L 8 20" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" />
-    <line x1="17" y1="20" x2="24" y2="20" class="terminal-cursor" />
+  <!-- Cyberpunk Vibe Icon (Abstract rotating & pulsing digital core) -->
+  <g transform="translate(45, 55)">
+    <!-- Rotating outer ring -->
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#a855f7" stroke-width="1.5" stroke-dasharray="8, 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <!-- Inner pulsing diamond -->
+    <polygon points="0,-11 9,0 0,11 -9,0" fill="none" stroke="#00f5ff" stroke-width="2">
+      <animateTransform attributeName="transform" type="scale" values="1;1.25;1" dur="2.5s" repeatCount="indefinite" />
+    </polygon>
+    <!-- Core dot -->
+    <circle cx="0" cy="0" r="3" fill="#a855f7">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite" />
+    </circle>
   </g>
 
   <!-- Text Details -->

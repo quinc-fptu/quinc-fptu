@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 80" width="100%" height="80">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    
+    .wave-path-1 {
+      fill: none;
+      stroke: url(#waveGradient1);
+      stroke-width: 3;
+      stroke-linecap: round;
+      filter: drop-shadow(0 0 6px rgba(0, 245, 255, 0.6));
+    }
+    .wave-path-2 {
+      fill: none;
+      stroke: url(#waveGradient2);
+      stroke-width: 2;
+      stroke-linecap: round;
+      opacity: 0.6;
+      filter: drop-shadow(0 0 4px rgba(168, 85, 247, 0.4));
+    }
+    .wave-path-3 {
+      fill: none;
+      stroke: url(#waveGradient3);
+      stroke-width: 1;
+      stroke-linecap: round;
+      opacity: 0.35;
+      filter: drop-shadow(0 0 3px rgba(244, 63, 94, 0.3));
+    }
+    .system-label {
+      font-family: 'Share Tech Mono', Consolas, Monaco, monospace;
+      font-size: 9.5px;
+      font-weight: 800;
+      fill: #8c9099;
+      letter-spacing: 2.5px;
+      text-shadow: 0 0 3px rgba(0, 245, 255, 0.3);
+      animation: pulseText 2s infinite alternate;
+    }
+    @keyframes pulseText {
+      0% { opacity: 0.4; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="waveGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" />
+      <stop offset="50%" stop-color="#0099ff" />
+      <stop offset="100%" stop-color="#a855f7" />
+    </linearGradient>
+    <linearGradient id="waveGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" />
+      <stop offset="50%" stop-color="#f43f5e" />
+      <stop offset="100%" stop-color="#00f5ff" />
+    </linearGradient>
+    <linearGradient id="waveGradient3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f43f5e" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00f5ff" />
+    </linearGradient>
+  </defs>
+
+  <!-- Title/Status indicators -->
+  <text x="400" y="18" text-anchor="middle" class="system-label">VIBE RESONANCE WAVE // FREQUENCY STABLE // HARMONIC MODE</text>
+
+  <!-- Wave 1 (Foreground Cyan-based, 8s dur) -->
+  <path class="wave-path-1" d="M 10 50 Q 100 20, 200 50 T 400 50 T 600 50 T 790 50">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="M 10 50 Q 100 20, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 70, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 20, 200 50 T 400 50 T 600 50 T 790 50" />
+  </path>
+
+  <!-- Wave 2 (Middleground Purple-based, 11s dur) -->
+  <path class="wave-path-2" d="M 10 50 Q 100 70, 200 50 T 400 50 T 600 50 T 790 50">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M 10 50 Q 100 70, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 25, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 70, 200 50 T 400 50 T 600 50 T 790 50" />
+  </path>
+
+  <!-- Wave 3 (Background Rose-based, 5s dur for dynamic overlay) -->
+  <path class="wave-path-3" d="M 10 50 Q 100 45, 200 50 T 400 50 T 600 50 T 790 50">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="M 10 50 Q 100 45, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 55, 200 50 T 400 50 T 600 50 T 790 50;
+              M 10 50 Q 100 45, 200 50 T 400 50 T 600 50 T 790 50" />
+  </path>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 50" width="100%" height="50">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;display=swap');
+    
+    .pulse-dot {
+      fill: #00f5ff;
+      animation: pulse 1.5s infinite alternate;
+    }
+    .neon-text {
+      font-family: 'Share Tech Mono', Consolas, Monaco, monospace;
+      font-size: 11.5px;
+      font-weight: bold;
+      fill: #ffffff;
+      text-shadow: 0 0 5px rgba(0, 245, 255, 0.4), 0 0 10px rgba(168, 85, 247, 0.3);
+      letter-spacing: 0.5px;
+    }
+    .status-lbl {
+      font-family: 'Share Tech Mono', Consolas, Monaco, monospace;
+      font-size: 10.5px;
+      font-weight: 800;
+      fill: #999999;
+      letter-spacing: 1px;
+    }
+    .typing-box {
+      overflow: hidden;
+      white-space: nowrap;
+      animation: typing 10s steps(60, end) infinite;
+    }
+    @keyframes pulse {
+      0% { r: 3.5px; fill-opacity: 0.5; filter: drop-shadow(0 0 1px #00f5ff); }
+      100% { r: 5.5px; fill-opacity: 1; filter: drop-shadow(0 0 6px #00f5ff); }
+    }
+    @keyframes typing {
+      0%, 10%, 90%, 100% { width: 0; }
+      20%, 80% { width: 570px; }
+    }
+    .glow-line {
+      stroke: url(#laserGradient);
+      stroke-width: 1.5;
+      filter: drop-shadow(0 0 3px rgba(168, 85, 247, 0.5));
+    }
+    .live-badge {
+      font-family: 'Share Tech Mono', Consolas, Monaco, monospace;
+      font-size: 9.5px;
+      font-weight: bold;
+      fill: #00f5ff;
+      animation: blink 1.2s step-end infinite;
+    }
+    @keyframes blink {
+      from, to { opacity: 0.3; }
+      50% { opacity: 1; text-shadow: 0 0 4px #00f5ff; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="laserGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" />
+      <stop offset="25%" stop-color="#a855f7" />
+      <stop offset="50%" stop-color="#00f5ff" />
+      <stop offset="75%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#00f5ff" />
+      <animate attributeName="x1" values="0%;100%" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="100%;200%" dur="6s" repeatCount="indefinite" />
+    </linearGradient>
+  </defs>
+
+  <!-- Pulsing status indicator -->
+  <circle cx="25" cy="25" r="4.5" class="pulse-dot" />
+  
+  <!-- Status Text Label -->
+  <text x="40" y="29" class="status-lbl">SYS_ACTIVE &gt;</text>
+  
+  <!-- Typing text animation -->
+  <svg x="130" y="0" width="570" height="50" class="typing-box">
+    <text x="0" y="29" class="neon-text">DISCIPLINE: VOVINAM // STACK: .NET_CORE_C# // MINDSET: CƯƠNG_NHU_PHỐI_TRIỂN</text>
+  </svg>
+
+  <!-- Live Status right alignment -->
+  <g transform="translate(710, 0)">
+    <rect x="0" y="17" width="65" height="17" rx="3" fill="rgba(0, 245, 255, 0.08)" stroke="rgba(0, 245, 255, 0.4)" stroke-width="1" />
+    <text x="32.5" y="29" text-anchor="middle" class="live-badge">ONLINE</text>
+  </g>
+
+  <!-- Bottom neon divider line -->
+  <line x1="15" y1="45" x2="785" y2="45" class="glow-line" />
+</svg>

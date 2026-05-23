@@ -1,7 +1,7 @@
 # 👋 Nguyen Cao Qui (QuiNC)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/BannerGithub.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/banners/BannerGithub.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
   
   <p align="center">
     <strong>I don't just build systems. I design digital architectures, combining the iron-willed discipline of a Vovinam athlete with the overclocked logic of an AI-augmented .NET Engineer.</strong>
@@ -15,18 +15,18 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/quinc_specs_hud.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_specs_hud.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/profile_effects.svg" alt="QuiNC System Status" width="100%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/profile_effects.svg" alt="QuiNC System Status" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vovinam_badge.svg" alt="Vovinam Athlete Badge" width="49%" />
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/vibe_code_quote.svg" alt="Vibe Code Philosophy Badge" width="49%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vovinam_badge.svg" alt="Vovinam Athlete Badge" width="49%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_code_quote.svg" alt="Vibe Code Philosophy Badge" width="49%" />
 </div>
 
 ## 🌌 The Core Mindset (Tư Duy Cốt Lõi)
@@ -72,7 +72,7 @@ If you share a passion for clean engineering, martial arts, or building interest
 *   **GitLab:** [gitlab.com/quinc.ce190986](https://gitlab.com/quinc.ce190986)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/system_waves.svg" alt="Vibe Resonance Wave" width="100%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/system_waves.svg" alt="Vibe Resonance Wave" width="100%" />
 </div>
 
 <div align="center">
