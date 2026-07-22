@@ -24,15 +24,6 @@
 *   **Structured Backend Systems:** Designing performant, secure, and type-safe backend architectures with .NET Core and SQL Server.
 *   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
 
-<br />
-
-<div align="center">
-  <p align="center"><strong>DEVELOPMENT WORKFLOW</strong></p>
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/flow_mono.svg" alt="AI Augmented Flowchart" width="100%" />
-</div>
-
-<br />
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
