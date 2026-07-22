@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" fill="none">
+  <!-- Top Banner: Monochrome Grid Dots with fade/pulse animation -->
+  <style>
+    .grid-bg { fill: #000000; }
+    .dot-glow { fill: #ffffff; }
+    .text-logo { font-family: 'Courier New', Courier, monospace; font-size: 28px; fill: #ffffff; font-weight: bold; letter-spacing: 6px; }
+    .text-tagline { font-family: 'Courier New', Courier, monospace; font-size: 10px; fill: #666666; letter-spacing: 2px; }
+  </style>
+
+  <rect width="800" height="120" class="grid-bg" rx="6" />
+
+  <!-- Animated Matrix Dots -->
+  <g opacity="0.25">
+    <!-- Col 1 -->
+    <circle cx="50" cy="30" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" /></circle>
+    <circle cx="50" cy="60" r="1.5" class="dot-glow"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite" /></circle>
+    <circle cx="50" cy="90" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="4s" repeatCount="indefinite" /></circle>
+    <!-- Col 2 -->
+    <circle cx="150" cy="20" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.1;0.9;0.1" dur="3.5s" repeatCount="indefinite" /></circle>
+    <circle cx="150" cy="50" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.8s" repeatCount="indefinite" /></circle>
+    <circle cx="150" cy="100" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.2s" repeatCount="indefinite" /></circle>
+    <!-- Col 3 -->
+    <circle cx="250" cy="40" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite" /></circle>
+    <circle cx="250" cy="80" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" repeatCount="indefinite" /></circle>
+    <!-- Col 4 -->
+    <circle cx="550" cy="30" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.8s" repeatCount="indefinite" /></circle>
+    <circle cx="550" cy="70" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.7s" repeatCount="indefinite" /></circle>
+    <!-- Col 5 -->
+    <circle cx="650" cy="40" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.1;0.8;0.1" dur="3.1s" repeatCount="indefinite" /></circle>
+    <circle cx="650" cy="90" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.7;0.3;0.7" dur="4.2s" repeatCount="indefinite" /></circle>
+    <!-- Col 6 -->
+    <circle cx="750" cy="20" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.9s" repeatCount="indefinite" /></circle>
+    <circle cx="750" cy="60" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite" /></circle>
+    <circle cx="750" cy="100" r="1.5" class="dot-glow"><animate attributeName="opacity" values="0.9;0.1;0.9" dur="2.4s" repeatCount="indefinite" /></circle>
+  </g>
+
+  <!-- Center Text Graphic -->
+  <g transform="translate(400, 60)">
+    <text x="0" y="0" text-anchor="middle" class="text-logo">QUINC</text>
+    <text x="0" y="25" text-anchor="middle" class="text-tagline">FRONTEND-FOCUSED DEVELOPER</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" fill="none">
+  <!-- Footer: Smooth flowing sine waves using morphing paths -->
+  <style>
+    .wave-line { stroke: #333333; stroke-width: 1; opacity: 0.7; }
+    .wave-line-light { stroke: #555555; stroke-width: 0.8; opacity: 0.4; }
+  </style>
+
+  <!-- Wave 1 (Morphing animation) -->
+  <path d="M 0 30 Q 200 10, 400 30 T 800 30" class="wave-line">
+    <animate attributeName="d" 
+             values="M 0 30 Q 200 10, 400 30 T 800 30;
+                     M 0 30 Q 200 50, 400 30 T 800 30;
+                     M 0 30 Q 200 10, 400 30 T 800 30" 
+             dur="6s" 
+             repeatCount="indefinite" />
+  </path>
+
+  <!-- Wave 2 (Offset morphing animation) -->
+  <path d="M 0 30 Q 200 40, 400 30 T 800 30" class="wave-line-light">
+    <animate attributeName="d" 
+             values="M 0 30 Q 200 40, 400 30 T 800 30;
+                     M 0 30 Q 200 20, 400 30 T 800 30;
+                     M 0 30 Q 200 40, 400 30 T 800 30" 
+             dur="5s" 
+             repeatCount="indefinite" />
+  </path>
+</svg>

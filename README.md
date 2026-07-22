@@ -2,6 +2,8 @@
 
 ### Frontend-Focused Engineer // AI-Augmented Developer
 
+![dynamic banner](assets/svgs/dynamic_bg.svg?v=1.2)
+
 ![pulse wave](assets/svgs/pulse_mono.svg?v=1.2)
 
 ## Tech Stack
@@ -28,3 +30,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-cao-qui)
 [![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/quinc.ce190986)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinc.ce190986@gmail.com)
+
+<br />
+
+![footer wave](assets/svgs/vibe_resonance.svg?v=1.2)
