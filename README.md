@@ -4,6 +4,18 @@
 
 ---
 
+```text
+  ___   _   _   ___   _   _   ___ 
+ / _ \ | | | | |_ _| | \ | | / __|  
+| | | || |_| |  | |  |  \| || |     
+| |_| ||  _  |  | |  | |\  || |___  
+ \__\_\|_| |_| |___| |_| \_| \____| 
+                                    
+  [ SYSTEMS ENGINEER // CORE REGISTERED ]
+```
+
+---
+
 ## Tech Stack
 
 | Category | Technologies & Frameworks |
@@ -24,7 +36,20 @@
 
 ## Connect
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qisngx.id.vn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-cao-qui)
-[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/quinc.ce190986)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinc.ce190986@gmail.com)
+<p align="left">
+  <a href="https://qisngx.id.vn">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nguyen-cao-qui">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gitlab.com/quinc.ce190986">
+    <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:quinc.ce190986@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
