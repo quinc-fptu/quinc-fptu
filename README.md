@@ -3,7 +3,7 @@
 ### .NET Software Engineer // AI-Augmented Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/pulse_mono.svg" alt="pulse wave" width="100%" />
 </div>
 
 ## Tech Stack
