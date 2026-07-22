@@ -2,9 +2,7 @@
 
 ### .NET Software Engineer // AI-Augmented Developer
 
-<div align="center">
-  <img src="assets/svgs/pulse_mono.svg" alt="pulse wave" width="100%" />
-</div>
+![pulse wave](assets/svgs/pulse_mono.svg)
 
 ## Tech Stack
 
@@ -14,9 +12,7 @@
 | **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) |
 | **Data & Scripts** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
-<div align="center">
-  <img src="assets/svgs/divider_mono.svg" alt="divider" width="100%" />
-</div>
+![divider](assets/svgs/divider_mono.svg)
 
 ## Core Focus
 
@@ -24,9 +20,7 @@
 *   **Structured Backend Systems:** Designing performant, secure, and type-safe backend architectures with .NET Core and SQL Server.
 *   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
 
-<div align="center">
-  <img src="assets/svgs/divider_mono.svg" alt="divider" width="100%" />
-</div>
+![divider](assets/svgs/divider_mono.svg)
 
 ## Connect
 
