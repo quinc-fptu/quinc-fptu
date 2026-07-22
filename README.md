@@ -2,19 +2,9 @@
 
 ### .NET Software Engineer // AI-Augmented Developer
 
----
-
-```text
-  ___   _   _   ___   _   _   ___ 
- / _ \ | | | | |_ _| | \ | | / __|  
-| | | || |_| |  | |  |  \| || |     
-| |_| ||  _  |  | |  | |\  || |__  
- \__\_\|_| |_| |___| |_| \_| \___| 
-                                    
-  [ SYSTEMS ENGINEER // CORE REGISTERED ]
-```
-
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+</div>
 
 ## Tech Stack
 
@@ -24,7 +14,9 @@
 | **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) |
 | **Data & Scripts** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+</div>
 
 ## Core Focus
 
@@ -32,24 +24,22 @@
 *   **Structured Backend Systems:** Designing performant, secure, and type-safe backend architectures with .NET Core and SQL Server.
 *   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
 
----
+<br />
+
+<div align="center">
+  <p align="center"><strong>DEVELOPMENT WORKFLOW</strong></p>
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/flow_mono.svg" alt="AI Augmented Flowchart" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+</div>
 
 ## Connect
 
-<p align="left">
-  <a href="https://qisngx.id.vn">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nguyen-cao-qui">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gitlab.com/quinc.ce190986">
-    <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:quinc.ce190986@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qisngx.id.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-cao-qui)
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/quinc.ce190986)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinc.ce190986@gmail.com)

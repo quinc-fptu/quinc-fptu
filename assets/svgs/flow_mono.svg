@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%" fill="none">
+  <style>
+    .bg { fill: #000000; }
+    .stroke-main { stroke: #ffffff; stroke-width: 1.2; }
+    .stroke-sub { stroke: #333333; stroke-width: 1; stroke-dasharray: 4 4; }
+    .text-title { font-family: 'Courier New', Courier, monospace; font-size: 11px; fill: #ffffff; font-weight: bold; letter-spacing: 2px; }
+    .text-sub { font-family: 'Courier New', Courier, monospace; font-size: 9px; fill: #888888; }
+    .dot { fill: #ffffff; }
+  </style>
+
+  <!-- Background -->
+  <rect width="800" height="120" rx="4" class="bg" />
+
+  <!-- Grid Background Lines -->
+  <g opacity="0.15">
+    <line x1="0" y1="20" x2="800" y2="20" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="0" y1="40" x2="800" y2="40" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="0" y1="60" x2="800" y2="60" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="0" y1="80" x2="800" y2="80" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="0" y1="100" x2="800" y2="100" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="160" y1="0" x2="160" y2="120" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="400" y1="0" x2="400" y2="120" stroke="#ffffff" stroke-width="0.5" />
+    <line x1="640" y1="0" x2="640" y2="120" stroke="#ffffff" stroke-width="0.5" />
+  </g>
+
+  <!-- Flow Nodes -->
+  <!-- Node 1: Developer Intent -->
+  <rect x="30" y="35" width="130" height="50" rx="3" class="stroke-main" />
+  <text x="42" y="55" class="text-title">VIBE CODER</text>
+  <text x="42" y="70" class="text-sub">[Intent &amp; Spec]</text>
+
+  <!-- Connection 1 -->
+  <path d="M 160 60 L 250 60" class="stroke-main" />
+  <polygon points="250,60 244,56 244,64" fill="#ffffff" />
+  
+  <!-- Node 2: AI Orchestrator -->
+  <rect x="250" y="35" width="150" height="50" rx="3" class="stroke-main" />
+  <text x="262" y="55" class="text-title">AI ORCHESTRATOR</text>
+  <text x="262" y="70" class="text-sub">[Agentic Loop]</text>
+
+  <!-- Connection 2 (Bidirectional loop representation) -->
+  <path d="M 400 50 L 510 50" class="stroke-main" />
+  <polygon points="510,50 504,46 504,54" fill="#ffffff" />
+  <path d="M 510 70 L 400 70" class="stroke-sub" />
+  <polygon points="400,70 406,66 406,74" fill="#333333" />
+
+  <!-- Node 3: Target System -->
+  <rect x="510" y="35" width="140" height="50" rx="3" class="stroke-main" />
+  <text x="522" y="55" class="text-title">PRODUCTION CODE</text>
+  <text x="522" y="70" class="text-sub">[Refined Result]</text>
+
+  <!-- Decorative Signal Waves -->
+  <path d="M 680 60 Q 695 30, 710 60 T 740 60 T 770 60" class="stroke-sub" />
+  <circle cx="680" cy="60" r="2" class="dot" />
+  <circle cx="770" cy="60" r="2" class="dot" />
+</svg>
