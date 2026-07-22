@@ -8,8 +8,8 @@
   ___   _   _   ___   _   _   ___ 
  / _ \ | | | | |_ _| | \ | | / __|  
 | | | || |_| |  | |  |  \| || |     
-| |_| ||  _  |  | |  | |\  || |___  
- \__\_\|_| |_| |___| |_| \_| \____| 
+| |_| ||  _  |  | |  | |\  || |__  
+ \__\_\|_| |_| |___| |_| \_| \___| 
                                     
   [ SYSTEMS ENGINEER // CORE REGISTERED ]
 ```
@@ -31,6 +31,16 @@
 *   **AI-Driven Development:** Scaling delivery speed and system precision by custom-orchestrating LLM agents to iterate clean, highly-differentiated software.
 *   **Structured Backend Systems:** Designing performant, secure, and type-safe backend architectures with .NET Core and SQL Server.
 *   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
+
+---
+
+## GitHub Analytics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=quinc-fptu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=8c9099&icon_color=ffffff" alt="QuiNC GitHub Stats" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinc-fptu&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=8c9099" alt="QuiNC Top Languages" height="150" />
+</p>
 
 ---
 
