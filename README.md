@@ -10,21 +10,20 @@
 | :--- | :--- |
 | **Backend & Core** | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=.net&logoColor=white) |
 | **Frontend & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) |
-| **Databases & Tools** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) |
+| **Databases & Automation** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
-## Core Focus & Key Highlights
+## Core Focus & Highlights
 
-*   **Enterprise Backend Solutions**
-    *   Designing scalable architectures and structured services using .NET Core, ASP.NET Core (MVC, Blazor), and SQL Server.
-    *   *Highlight:* Engineered multi-tier Clean Architecture models featuring robust data abstraction layers and optimized transaction flows.
-*   **Interactive Web & UI Platforms**
-    *   Building modern full-stack web applications, landing pages, and interactive dashboards using TypeScript, React, Next.js, and Tailwind CSS.
-    *   *Highlight:* Developed real-time platforms featuring advanced state synchronization (e.g., MekongConnect, ThapHuongOnline, and custom interactive exam systems).
-*   **Automation & Integration Tools**
-    *   Developing utility scripts, data automation pipelines, and API integrations with Python and Node.js.
-    *   *Highlight:* Created automated TikTok content workflows (FAP-TiktokVibe) and lightweight developer utility/agent frameworks (AgentKit).
+*   **Enterprise Architecture (.NET Core & Blazor):**
+    *   Design clean, multi-layered (DAL/BLL/UI) applications like *EventHub*, utilizing ASP.NET Core MVC, Razor Pages, Blazor, and EF Core with SQL Server.
+*   **Orchestration & AI Tooling (AgentKit):**
+    *   Architected *AgentKit*, a centralized AI Agent Skills and Knowledge registry designed for automated project harvesting, code audits, and context compression rules.
+*   **Interactive Web & Creative Frontends (Next.js & Tailwind):**
+    *   Develop fluid, responsive user interfaces and custom layouts for landing pages and web apps (e.g., *MQT*, *qt2026*, *ThapHuongOnline*, *MekongConnect*).
+*   **Automation & Scripting (Python & Node.js):**
+    *   Implement data processing pipelines, automation scripts, and workflow integrations (e.g., *FAP-TiktokVibe*, *SmartFileOrganizer*).
 
 ---
 
