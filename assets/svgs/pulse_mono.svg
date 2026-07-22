@@ -1,5 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 30" width="100%" fill="none">
-  <path d="M 0 15 L 300 15 Q 310 15, 315 5 T 325 25 T 335 15 L 465 15 Q 475 15, 480 5 T 490 25 T 500 15 L 800 15" stroke="#333333" stroke-width="1" />
-  <circle cx="335" cy="15" r="2.5" fill="#ffffff" stroke="#000000" stroke-width="1" />
-  <circle cx="465" cy="15" r="2.5" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <!-- Gray Line: 0 to 335 -->
+  <path d="M 0 15 L 300 15 Q 310 15, 315 5 T 325 25 T 335 15" stroke="#333333" stroke-width="1" />
+  
+  <!-- Gray Line: 465 to 800 -->
+  <path d="M 465 15 L 480 15 Q 490 15, 495 5 T 505 25 T 515 15 L 800 15" stroke="#333333" stroke-width="1" />
+  
+  <!-- White Line Connecting the two nodes: 335 to 465 -->
+  <path d="M 335 15 L 465 15" stroke="#ffffff" stroke-width="1.2" />
+
+  <!-- Circle nodes at the boundary of white connection -->
+  <circle cx="335" cy="15" r="2" fill="#ffffff" />
+  <circle cx="465" cy="15" r="2" fill="#ffffff" />
 </svg>
