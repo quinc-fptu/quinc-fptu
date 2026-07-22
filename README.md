@@ -1,6 +1,6 @@
 # NGUYEN CAO QUI (QuiNC)
 
-### .NET Software Engineer // AI-Augmented Developer
+### Frontend Specialist // AI-Augmented Developer
 
 ![pulse wave](assets/svgs/pulse_mono.svg?v=1.2)
 
@@ -8,17 +8,17 @@
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend** | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) |
+| **Frontend & UI** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Backend & Core** | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Data & Scripts** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
 ![divider](assets/svgs/divider_mono.svg?v=1.2)
 
 ## Core Focus
 
-*   **AI-Driven Development:** Scaling delivery speed and system precision by custom-orchestrating LLM agents to iterate clean, highly-differentiated software.
-*   **Structured Backend Systems:** Designing performant, secure, and type-safe backend architectures with .NET Core, Java, SQL Server, and OracleDB.
-*   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
+*   **Aesthetic & High-Performance Frontends:** Sculpting pixel-perfect landing pages, highly-differentiated UI components, complex layout architectures, and smooth interactive web experiences.
+*   **AI-Driven Development:** Scaling delivery speed and system precision by custom-orchestrating LLM agents to iterate clean, high-value web software.
+*   **Structured Backend Architectures:** Designing robust backend services, secure APIs, and optimized database schemas with .NET, Java, SQL Server, and OracleDB.
 
 ![divider](assets/svgs/divider_mono.svg?v=1.2)
 
