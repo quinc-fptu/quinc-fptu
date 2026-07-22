@@ -1,74 +1,32 @@
-<div align="center">
-  <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/banners/BannerGithub.png" alt="Nguyen Cao Qui Banner" width="100%" style="border-radius: 8px; margin-bottom: 20px;" />
-  
-  <!-- Cyberpunk Title Header -->
-  <h1><samp>NGUYEN CAO QUI (QuiNC)</samp></h1>
-  <p><strong><code>.NET Software Engineer // Vovinam City-Level Medalist // AI-Augmented Backend Developer</code></strong></p>
+# NGUYEN CAO QUI (QuiNC)
 
-  <hr style="border: 0.5px solid rgba(0, 245, 255, 0.15); margin: 20px 0;" />
+### .NET Software Engineer // AI-Augmented Backend Developer
 
-  <!-- Main Cyber Spec HUD -->
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_specs_hud_v2.svg" alt="QuiNC System Specs HUD" width="100%" style="margin-bottom: 15px;" />
-  
-  <!-- System Status console line -->
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/profile_effects_v2.svg" alt="QuiNC System Status" width="100%" style="margin-bottom: 20px;" />
+---
 
-  <!-- Side-by-side Bento cards -->
-  <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr style="border: none;">
-      <td width="50%" align="center" style="border: none; padding: 5px;">
-        <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vovinam_badge.svg" alt="Vovinam Athlete Badge" style="width: 100%; max-width: 400px;" />
-      </td>
-      <td width="50%" align="center" style="border: none; padding: 5px;">
-        <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_code_quote.svg" alt="Vibe Code Philosophy Badge" style="width: 100%; max-width: 400px;" />
-      </td>
-    </tr>
-  </table>
-</div>
+## Tech Stack & Tooling
 
-<br/>
-<p align="center"><samp>[ MODULE: CORE_MINDSET // ACTIVE ]</samp></p>
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & Core** | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=.net&logoColor=white) |
+| **Frontend & Web** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Automation & Databases** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/quinc_mindset_v2.svg" alt="QuiNC Core Mindset" width="100%" />
-</div>
+---
 
-<br/>
-<p align="center"><samp>[ MODULE: VIBE_PHILOSOPHY // ACTIVE ]</samp></p>
+## Core Focus
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/vibe_philosophy_v2.svg" alt="QuiNC Vibe Code Philosophy" width="100%" />
-</div>
+*   **Backend & Enterprise:** Developing structured web applications with Clean Architecture using .NET Core, ASP.NET Core (MVC, Razor Pages), and Entity Framework Core.
+*   **Modern Web & UI:** Building interactive landing pages and real-time frontend interfaces with Blazor, React, Next.js, and Tailwind CSS.
+*   **Automation:** Scripting lightweight system utilities and automation tasks using Python.
 
-<br/>
-<p align="center"><samp>[ PORTAL: CONNECT_DIRECTORY // ONLINE ]</samp></p>
+---
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="mailto:quinc.ce190986@gmail.com">
-          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_email.svg" alt="Email Directory" width="240" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://linkedin.com/in/nguyen-cao-qui">
-          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_linkedin.svg" alt="LinkedIn Directory" width="240" />
-        </a>
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://gitlab.com/quinc.ce190986">
-          <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/contact_gitlab.svg" alt="GitLab Repository" width="240" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+## Connect Directory
 
-<br/>
+We can connect or collaborate via the links below:
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/system_waves.svg" alt="Vibe Resonance Wave" width="100%" />
-  <p style="margin-top: 15px;"><em>"Flow like water, strike like iron. Keep practicing."</em></p>
-</div>
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://qisngx.id.vn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nguyen-cao-qui)
+[![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/quinc.ce190986)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quinc.ce190986@gmail.com)
