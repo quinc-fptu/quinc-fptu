@@ -14,11 +14,17 @@
 
 ---
 
-## Core Focus
+## Core Focus & Key Highlights
 
-*   **Enterprise Backend Solutions:** Designing scalable systems and Clean Architecture services with .NET Core, ASP.NET Core (MVC, Blazor), and SQL Server.
-*   **Interactive Web & UI Platforms:** Building full-stack applications, modern landing pages, and interactive dashboards using TypeScript, React, Next.js, and Tailwind CSS.
-*   **Automation & Integration Tools:** Developing utility scripts, data automation pipelines, and API integrations with Python and Node.js.
+*   **Enterprise Backend Solutions**
+    *   Designing scalable architectures and structured services using .NET Core, ASP.NET Core (MVC, Blazor), and SQL Server.
+    *   *Highlight:* Engineered multi-tier Clean Architecture models featuring robust data abstraction layers and optimized transaction flows.
+*   **Interactive Web & UI Platforms**
+    *   Building modern full-stack web applications, landing pages, and interactive dashboards using TypeScript, React, Next.js, and Tailwind CSS.
+    *   *Highlight:* Developed real-time platforms featuring advanced state synchronization (e.g., MekongConnect, ThapHuongOnline, and custom interactive exam systems).
+*   **Automation & Integration Tools**
+    *   Developing utility scripts, data automation pipelines, and API integrations with Python and Node.js.
+    *   *Highlight:* Created automated TikTok content workflows (FAP-TiktokVibe) and lightweight developer utility/agent frameworks (AgentKit).
 
 ---
 
