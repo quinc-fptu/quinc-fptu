@@ -1,6 +1,6 @@
 # NGUYEN CAO QUI (QuiNC)
 
-### Frontend Specialist // AI-Augmented Developer
+### Frontend-Focused Engineer // AI-Augmented Developer
 
 ![pulse wave](assets/svgs/pulse_mono.svg?v=1.2)
 
