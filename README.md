@@ -1,6 +1,6 @@
 # NGUYEN CAO QUI (QuiNC)
 
-### .NET Software Engineer // AI-Augmented Backend Developer
+### .NET Software Engineer // AI-Augmented "Vibe Coder"
 
 ---
 
@@ -16,9 +16,14 @@
 
 ## Core Focus
 
-*   **Robust Backend Architectures:** Crafting enterprise-ready .NET APIs, secure services, and optimized SQL schemas designed for scale, high throughput, and strict type-safety.
-*   **Aesthetic & High-Performance Frontends:** Sculpting pixel-perfect landing pages, custom interactive micro-interactions, and real-time dashboard UI layouts with modern frontend technologies.
-*   **Automation & Developer Tooling:** Engineering AI agent orchestrators, automated script utilities, and media pipeline scrapers to accelerate software development workflows.
+*   **AI-Driven Development Flow (Vibe Coding):**
+    *   Leveraging advanced AI agent workflows and custom orchestration rules to rapidly prototype, iterate, and deploy high-quality software, translating raw creative concepts into production-ready logic.
+*   **Robust Backend Architectures:**
+    *   Designing enterprise-ready .NET APIs, secure backend services, and optimized SQL database schemas built for reliability and scale.
+*   **Aesthetic Frontends & Interactive UI:**
+    *   Sculpting pixel-perfect landing pages, engaging micro-interactions, and real-time dashboard layouts that prioritize both performance and aesthetic detail.
+*   **Workflow Automation:**
+    *   Engineering custom scripting utilities, content automation pipelines, and lightweight scrapers to optimize productivity.
 
 ---
 
