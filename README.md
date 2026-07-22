@@ -3,7 +3,7 @@
 ### .NET Software Engineer // AI-Augmented Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="./assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
 
 ## Tech Stack
@@ -15,7 +15,7 @@
 | **Data & Scripts** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="./assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
 
 ## Core Focus
@@ -28,13 +28,13 @@
 
 <div align="center">
   <p align="center"><strong>DEVELOPMENT WORKFLOW</strong></p>
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/flow_mono.svg" alt="AI Augmented Flowchart" width="100%" />
+  <img src="./assets/svgs/flow_mono.svg" alt="AI Augmented Flowchart" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="./assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
 
 ## Connect
