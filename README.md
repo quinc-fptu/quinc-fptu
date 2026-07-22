@@ -9,16 +9,16 @@
 | Category | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend & Core** | ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=.net&logoColor=white) |
-| **Frontend & Web** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Automation & Databases** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Frontend & Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Blazor](https://img.shields.io/badge/Blazor-000000?style=for-the-badge&logo=blazor&logoColor=white) |
+| **Databases & Tools** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ## Core Focus
 
-*   **Backend & Enterprise:** Developing structured web applications with Clean Architecture using .NET Core, ASP.NET Core (MVC, Razor Pages), and Entity Framework Core.
-*   **Modern Web & UI:** Building interactive landing pages and real-time frontend interfaces with Blazor, React, Next.js, and Tailwind CSS.
-*   **Automation:** Scripting lightweight system utilities and automation tasks using Python.
+*   **Enterprise Backend Solutions:** Designing scalable systems and Clean Architecture services with .NET Core, ASP.NET Core (MVC, Blazor), and SQL Server.
+*   **Interactive Web & UI Platforms:** Building full-stack applications, modern landing pages, and interactive dashboards using TypeScript, React, Next.js, and Tailwind CSS.
+*   **Automation & Integration Tools:** Developing utility scripts, data automation pipelines, and API integrations with Python and Node.js.
 
 ---
 
