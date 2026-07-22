@@ -34,16 +34,6 @@
 
 ---
 
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=quinc-fptu&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=8c9099&icon_color=ffffff" alt="QuiNC GitHub Stats" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quinc-fptu&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=8c9099" alt="QuiNC Top Languages" height="150" />
-</p>
-
----
-
 ## Connect
 
 <p align="left">
