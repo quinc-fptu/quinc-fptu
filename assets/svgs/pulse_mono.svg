@@ -1,14 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 30" width="100%" fill="none">
-  <!-- Gray Line: 0 to 335 -->
-  <path d="M 0 15 L 300 15 Q 310 15, 315 5 T 325 25 T 335 15" stroke="#333333" stroke-width="1" />
-  
-  <!-- Gray Line: 465 to 800 -->
-  <path d="M 465 15 L 480 15 Q 490 15, 495 5 T 505 25 T 515 15 L 800 15" stroke="#333333" stroke-width="1" />
-  
-  <!-- White Line Connecting the two nodes: 335 to 465 -->
-  <path d="M 335 15 L 465 15" stroke="#ffffff" stroke-width="1.2" />
-
-  <!-- Circle nodes at the boundary of white connection -->
-  <circle cx="335" cy="15" r="2" fill="#ffffff" />
-  <circle cx="465" cy="15" r="2" fill="#ffffff" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" width="100%" fill="none">
+  <!-- Tang viewBox height tu 30 len 40 va dich chuyen y-axis tu 15 xuong 20 de cac net ve cong o vung bien duoi khong bi cat (clipping) -->
+  <path d="M 0 20 L 300 20 Q 310 20, 315 10 T 325 30 T 335 20 L 465 20 Q 475 20, 480 10 T 490 30 T 500 20 L 800 20" stroke="#333333" stroke-width="1.2" />
+  <circle cx="335" cy="20" r="2.5" fill="#ffffff" stroke="#000000" stroke-width="1" />
+  <circle cx="465" cy="20" r="2.5" fill="#ffffff" stroke="#000000" stroke-width="1" />
 </svg>
