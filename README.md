@@ -3,7 +3,7 @@
 ### .NET Software Engineer // AI-Augmented Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/pulse_mono.svg" alt="pulse wave" width="100%" />
+  <img src="assets/svgs/pulse_mono.svg" alt="pulse wave" width="100%" />
 </div>
 
 ## Tech Stack
@@ -15,7 +15,7 @@
 | **Data & Scripts** | ![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
 
 ## Core Focus
@@ -25,7 +25,7 @@
 *   **Aesthetic & Interactive Frontends:** Building pixel-perfect landing pages, custom web UI components, and real-time dashboard layouts.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/quinc-fptu/quinc-fptu/main/assets/svgs/divider_mono.svg" alt="divider" width="100%" />
+  <img src="assets/svgs/divider_mono.svg" alt="divider" width="100%" />
 </div>
 
 ## Connect
