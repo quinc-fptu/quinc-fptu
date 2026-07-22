@@ -14,16 +14,11 @@
 
 ---
 
-## Core Focus & Highlights
+## Core Focus
 
-*   **Enterprise Architecture (.NET Core & Blazor):**
-    *   Design clean, multi-layered (DAL/BLL/UI) applications like *EventHub*, utilizing ASP.NET Core MVC, Razor Pages, Blazor, and EF Core with SQL Server.
-*   **Orchestration & AI Tooling (AgentKit):**
-    *   Architected *AgentKit*, a centralized AI Agent Skills and Knowledge registry designed for automated project harvesting, code audits, and context compression rules.
-*   **Interactive Web & Creative Frontends (Next.js & Tailwind):**
-    *   Develop fluid, responsive user interfaces and custom layouts for landing pages and web apps (e.g., *MQT*, *qt2026*, *ThapHuongOnline*, *MekongConnect*).
-*   **Automation & Scripting (Python & Node.js):**
-    *   Implement data processing pipelines, automation scripts, and workflow integrations (e.g., *FAP-TiktokVibe*, *SmartFileOrganizer*).
+*   **Robust Backend Architectures:** Crafting enterprise-ready .NET APIs, secure services, and optimized SQL schemas designed for scale, high throughput, and strict type-safety.
+*   **Aesthetic & High-Performance Frontends:** Sculpting pixel-perfect landing pages, custom interactive micro-interactions, and real-time dashboard UI layouts with modern frontend technologies.
+*   **Automation & Developer Tooling:** Engineering AI agent orchestrators, automated script utilities, and media pipeline scrapers to accelerate software development workflows.
 
 ---
 
